@@ -3,3 +3,5 @@ b1d3a731243d53c3da3e227d142331365bf73074 b1d3a731243d53c3da3e227d142331365bf7307
 b1d3a731243d53c3da3e227d142331365bf73074 b1d3a731243d53c3da3e227d142331365bf73074 Peter <b8039269@newcastle.ac.uk> 1731350264 +0000	checkout: moving from master to master
 b1d3a731243d53c3da3e227d142331365bf73074 1808c58b758ef90268fd06a2f705255ee98883b0 Peter <b8039269@newcastle.ac.uk> 1731392707 +0000	commit: Implemented back/front-end to work together with correct cors implementation
 1808c58b758ef90268fd06a2f705255ee98883b0 41a990c69c8e02279065755ee81808592887f231 Peter <b8039269@newcastle.ac.uk> 1731394246 +0000	commit: Added exercise retrival and display components
+41a990c69c8e02279065755ee81808592887f231 1dac1f57eb52dc3f9e8207b9ef65bbbc48988ef5 Peter <b8039269@newcastle.ac.uk> 1731427624 +0000	commit: Refactored code base + added db fetch from frontend + welcome screen
+1dac1f57eb52dc3f9e8207b9ef65bbbc48988ef5 13e024f279c6d04171d812650766fbc2426a4f51 Peter <b8039269@newcastle.ac.uk> 1731427681 +0000	commit: .
